@@ -1,0 +1,11 @@
+# 임시 파일
+*.tmp
+*.bak
+.DS_Store
+
+# 초안 (output 하위 draft 폴더만 제외, 완성본은 추적)
+output/초안/
+
+# 에디터
+.vscode/
+.idea/
